@@ -17,8 +17,3 @@ All files (dataset, presentation, report) are available here:
 * Python
 * Deep Learning
 * CNN
-
-## ▶️ How to run
-
-pip install -r requirements.txt
-python train_model.py
