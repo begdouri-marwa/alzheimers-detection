@@ -1,4 +1,4 @@
-# alzheimers-detection
+
 # Alzheimer Detection Project
 
 ## 📌 Description
