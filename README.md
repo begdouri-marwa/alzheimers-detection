@@ -9,7 +9,7 @@ AI-based model for early detection of Alzheimer’s disease using MRI images.
 
 All files (dataset, presentation, report) are available here:
 
-🔗 https://drive.google.com/drive/folders/1Nit81rhIWfOlf3XErhAUXtYpn8wlnfAg?usp=sharing
+🔗 [Download Full Project](https://drive.google.com/drive/folders/1Nit81rhIWFoIf3XErhAUXtYpn8wInfAg?usp=sharing)
 
 
 ## 🧠 Technologies
